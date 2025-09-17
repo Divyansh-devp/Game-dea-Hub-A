@@ -1,0 +1,37 @@
+##Game Title
+
+ChronoQuest: Shards of Time
+
+##Concept
+
+ChronoQuest is a story-driven action-adventure game where players travel through different eras of history to restore balance to a fractured timeline. By collecting "Time Shards," players must prevent paradoxes that threaten to unravel reality.
+
+##Gameplay
+
+Players control a time-traveling hero who can explore multiple eras (ancient, medieval, futuristic, etc.), each with unique challenges and enemies. The core loop involves solving puzzles, battling era-specific foes, and making choices that alter the future. The objective is to restore the broken timeline while keeping paradoxes under control.
+
+##Unique Features
+
+Era-Switching Mechanic: Players can instantly jump between two versions of the same location (e.g., medieval castle vs. ruined futuristic outpost) to solve puzzles and reveal secrets.
+
+Paradox Choices: Decisions made in the past affect gameplay in the future (e.g., saving a village in 1200 AD means a thriving city in 2200 AD).
+
+Dynamic Combat: Weapons and skills adapt depending on the timeline (swords in medieval, plasma rifles in futuristic).
+
+Replayability: Multiple endings based on paradoxes resolved or created.
+
+##Target Audience
+
+Teens and young adults (13–30) who enjoy story-driven adventures, time-travel mechanics, and action-puzzle hybrids. Fans of Zelda, Assassin’s Creed, or Life Is Strange will find appeal here.
+
+##Art Style & Theme
+
+A stylized semi-realistic art style with vibrant colors in historical settings and sleek neon designs in futuristic timelines. The tone balances epic adventure with thought-provoking “butterfly effect” storytelling.
+
+##Inspiration
+
+Inspired by The Legend of Zelda: Ocarina of Time, Assassin’s Creed (for historical immersion), and Bioshock Infinite (for its time-bending narrative). The idea also draws from popular sci-fi films like Interstellar and Doctor Strange.
+
+##Tools or Platforms
+
+Planned for Unity (cross-platform), with releases on PC, PlayStation, Xbox, and Nintendo Switch. A simplified mobile spin-off could also be explored.
